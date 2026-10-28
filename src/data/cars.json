@@ -1,0 +1,143 @@
+[
+    {
+        "id":  "BEEMO-001",
+        "make":  "Mercedes-Benz",
+        "model":  "CLA 35 AMG",
+        "year":  2021,
+        "price":  null,
+        "condition":  "Used",
+        "bodyStyle":  "Coupe",
+        "color":  "White",
+        "images":  [
+                       "/images/inventory/cla_35_amg/SaveInta.com_847048933_18461581978140428_3912050095645718809_n.jpg",
+                       "/images/inventory/cla_35_amg/SaveInta.com_844574782_18461582005140428_759201605590286891_n.jpg",
+                       "/images/inventory/cla_35_amg/SaveInta.com_845291463_18461582059140428_8522454781025049078_n.jpg",
+                       "/images/inventory/cla_35_amg/SaveInta.com_847338861_18461582221140428_5067305255298984290_n.jpg",
+                       "/images/inventory/cla_35_amg/SaveInta.com_847847776_18461582002140428_4909172608572866611_n.jpg",
+                       "/images/inventory/cla_35_amg/SaveInta.com_848090503_18461582233140428_6768508043484163192_n.jpg"
+                   ],
+        "featured":  true,
+        "description":  "Explore this Mercedes-Benz CLA 35 AMG in the photo gallery. Contact Beemo Autos to confirm its price, condition, specifications and availability, or arrange an inspection.",
+        "features":  [
+
+                     ]
+    },
+    {
+        "id":  "BEEMO-002",
+        "make":  "Mercedes-Benz",
+        "model":  "GLC 300",
+        "year":  2016,
+        "price":  26900000,
+        "condition":  "Used",
+        "bodyStyle":  "SUV",
+        "color":  "Black",
+        "images":  [
+                       "/images/inventory/glc_300_2016/SaveInta.com_847791383_18461816179140428_2494651661782656370_n.jpg",
+                       "/images/inventory/glc_300_2016/SaveInta.com_846964924_18461816008140428_3465173697529805020_n.jpg",
+                       "/images/inventory/glc_300_2016/SaveInta.com_847338858_18461815993140428_7960286985453539015_n.jpg",
+                       "/images/inventory/glc_300_2016/SaveInta.com_847386830_18461815939140428_800631943667338575_n.jpg",
+                       "/images/inventory/glc_300_2016/SaveInta.com_847745391_18461815957140428_9013886150839549298_n.jpg",
+                       "/images/inventory/glc_300_2016/SaveInta.com_848481668_18461815948140428_3518280734353037857_n.jpg"
+                   ],
+        "featured":  false,
+        "description":  "Explore this Mercedes-Benz GLC 300 in the photo gallery. Contact Beemo Autos to confirm its price, condition, specifications and availability, or arrange an inspection.",
+        "features":  [
+
+                     ]
+    },
+    {
+        "id":  "BEEMO-003",
+        "make":  "Mercedes-Benz",
+        "model":  "GLE 43 AMG Coupe",
+        "year":  2018,
+        "price":  60000000,
+        "condition":  "Used",
+        "bodyStyle":  "Coupe",
+        "color":  "Black",
+        "images":  [
+                       "/images/inventory/gle_43_coupe_2018/SaveInta.com_847048930_18461795458140428_1903041014516839410_n.jpg",
+                       "/images/inventory/gle_43_coupe_2018/SaveInta.com_846366412_18461795494140428_8236618629400243103_n.jpg",
+                       "/images/inventory/gle_43_coupe_2018/SaveInta.com_847745395_18461795662140428_5192463443587129355_n.jpg",
+                       "/images/inventory/gle_43_coupe_2018/SaveInta.com_848587130_18461795653140428_1231719599050193707_n.jpg",
+                       "/images/inventory/gle_43_coupe_2018/SaveInta.com_848598928_18461795641140428_3782186194446993503_n.jpg",
+                       "/images/inventory/gle_43_coupe_2018/SaveInta.com_849171446_18461795485140428_3401359180309206261_n.jpg",
+                       "/images/inventory/gle_43_coupe_2018/SaveInta.com_850155282_18461795467140428_731418595541736630_n.jpg"
+                   ],
+        "featured":  true,
+        "description":  "Explore this Mercedes-Benz GLE 43 AMG Coupe in the photo gallery. Contact Beemo Autos to confirm its price, condition, specifications and availability, or arrange an inspection.",
+        "features":  [
+
+                     ]
+    },
+    {
+        "id":  "BEEMO-004",
+        "make":  "Mercedes-Benz",
+        "model":  "GLE 53 AMG Coupe",
+        "year":  2021,
+        "price":  115000000,
+        "condition":  "Used",
+        "bodyStyle":  "Coupe",
+        "color":  "Black",
+        "images":  [
+                       "/images/inventory/gle_53_coupe_2021/SaveInta.com_847536765_18461797921140428_446311353912209557_n.jpg",
+                       "/images/inventory/gle_53_coupe_2021/SaveInta.com_846366412_18461798113140428_6307571927152943770_n.jpg",
+                       "/images/inventory/gle_53_coupe_2021/SaveInta.com_846375405_18461797879140428_8119602141616434594_n.jpg",
+                       "/images/inventory/gle_53_coupe_2021/SaveInta.com_848337285_18461797894140428_7647361060116813763_n.jpg",
+                       "/images/inventory/gle_53_coupe_2021/SaveInta.com_849146700_18461798104140428_5320279541639920014_n.jpg",
+                       "/images/inventory/gle_53_coupe_2021/SaveInta.com_849320296_18461797870140428_6894505557810481773_n.jpg"
+                   ],
+        "featured":  true,
+        "description":  "Explore this Mercedes-Benz GLE 53 AMG Coupe in the photo gallery. Contact Beemo Autos to confirm its price, condition, specifications and availability, or arrange an inspection.",
+        "features":  [
+
+                     ]
+    },
+    {
+        "id":  "BEEMO-005",
+        "make":  "Mercedes-Benz",
+        "model":  "GLE 350",
+        "year":  2020,
+        "price":  65500000,
+        "condition":  "Used",
+        "bodyStyle":  "SUV",
+        "color":  "Black",
+        "images":  [
+                       "/images/inventory/gle_350_2020/SaveInta.com_844758099_18461583841140428_2474763374128012036_n.jpg",
+                       "/images/inventory/gle_350_2020/SaveInta.com_843494918_18461583640140428_5224181407446190903_n.jpg",
+                       "/images/inventory/gle_350_2020/SaveInta.com_844670857_18461583649140428_8627608285526464815_n.jpg",
+                       "/images/inventory/gle_350_2020/SaveInta.com_847226217_18461583637140428_8342275599146348868_n.jpg",
+                       "/images/inventory/gle_350_2020/SaveInta.com_847269921_18461583610140428_8862820958424611218_n.jpg",
+                       "/images/inventory/gle_350_2020/SaveInta.com_847802448_18461583853140428_3557485738843619129_n.jpg",
+                       "/images/inventory/gle_350_2020/SaveInta.com_848014602_18461583601140428_5494087595815536134_n.jpg"
+                   ],
+        "featured":  false,
+        "description":  "Explore this Mercedes-Benz GLE 350 in the photo gallery. Contact Beemo Autos to confirm its price, condition, specifications and availability, or arrange an inspection.",
+        "features":  [
+
+                     ]
+    },
+    {
+        "id":  "BEEMO-006",
+        "make":  "Mercedes-Benz",
+        "model":  "GLE 450 Coupe",
+        "year":  2016,
+        "price":  53500000,
+        "condition":  "Used",
+        "bodyStyle":  "Coupe",
+        "color":  "White",
+        "images":  [
+                       "/images/inventory/gle_450_2016_coupe/SaveInta.com_844544821_18461578072140428_8660148192250210463_n.jpg",
+                       "/images/inventory/gle_450_2016_coupe/SaveInta.com_844557268_18461578147140428_7324590869839427022_n.jpg",
+                       "/images/inventory/gle_450_2016_coupe/SaveInta.com_844860420_18461578069140428_8608923307160045624_n.jpg",
+                       "/images/inventory/gle_450_2016_coupe/SaveInta.com_846101422_18461578300140428_5941846354527653984_n.jpg",
+                       "/images/inventory/gle_450_2016_coupe/SaveInta.com_846909712_18461578111140428_1518655934157856796_n.jpg",
+                       "/images/inventory/gle_450_2016_coupe/SaveInta.com_847269925_18461578309140428_4086969855162889047_n.jpg",
+                       "/images/inventory/gle_450_2016_coupe/SaveInta.com_847708491_18461578105140428_4677871544098860009_n.jpg"
+                   ],
+        "featured":  false,
+        "description":  "Explore this Mercedes-Benz GLE 450 Coupe in the photo gallery. Contact Beemo Autos to confirm its price, condition, specifications and availability, or arrange an inspection.",
+        "features":  [
+
+                     ]
+    }
+]
